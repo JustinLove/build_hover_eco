@@ -29,6 +29,11 @@
         net.energy = net.energy - spec.consumption.energy
       }
     }
+    if (spec.teleporter) {
+      if (spec.teleporter.energy_demand) {
+        net.energy = net.energy - spec.teleporter.energy_demand
+      }
+    }
     return net
   }, function(a, b) {
     return {
