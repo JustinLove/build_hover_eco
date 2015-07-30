@@ -1,0 +1,5 @@
+CC BY
+see https://creativecommons.org/licenses/by/3.0/
+
+unitInfoParser.js - Cola_Colin
+remainder - wondible

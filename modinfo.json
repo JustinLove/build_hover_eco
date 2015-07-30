@@ -1,0 +1,22 @@
+{
+  "author": "wondible, Cola_Colin",
+  "build": "83796",
+  "category": ["ui", "in-game"],
+  "context": "client",
+  "date": "2015/07/30",
+  "description": "Add metal and energy production/consumption to build bar hover info",
+  "display_name": "Build Hover Eco",
+  "forum": null,
+  "identifier": "com.wondible.pa.build_hover_eco",
+  "priority": 100,
+  "scenes": {
+    "live_game_build_hover": [
+      "coui://ui/mods/build_hover_eco/build_hover_eco.css",
+      "coui://ui/mods/build_hover_eco/unitInfoParser.js",
+      "coui://ui/mods/build_hover_eco/build_hover_eco.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
