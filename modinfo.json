@@ -6,7 +6,7 @@
   "date": "2015/07/30",
   "description": "Add metal and energy production/consumption to build bar hover info",
   "display_name": "Build Hover Eco",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-build-hover-eco.69363/",
   "identifier": "com.wondible.pa.build_hover_eco",
   "priority": 100,
   "scenes": {
@@ -17,6 +17,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
